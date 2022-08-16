@@ -1,0 +1,2 @@
+this is the second file in the main-b.text
+this contains a secret @sH123 A$h123
